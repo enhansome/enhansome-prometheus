@@ -1,0 +1,471 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub repository",
+          "description": "Prometheus' source code, issues discussion and collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:13:55Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Prometheus demo",
+          "description": "Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from Prometheus repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T22:59:10Z",
+            "owner": "prometheus",
+            "repo": "demo-site",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Official resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prometheus-Basics",
+          "description": "Beginner friendly introduction to Prometheus by yolossn.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-01-21T10:32:49Z",
+            "owner": "yolossn",
+            "repo": "Prometheus-Basics",
+            "stars": 1560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instructions and example code for a Prometheus workshop",
+          "description": "Instructions and example code for a Prometheus workshop by Julius Volz.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-19T09:03:19Z",
+            "owner": "juliusv",
+            "repo": "prometheus_workshop",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prometheus Operator",
+          "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes by CoreOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:13:40Z",
+            "owner": "prometheus-operator",
+            "repo": "prometheus-operator",
+            "stars": 9973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Click-to-deploy Prometheus",
+          "description": "Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace by GoogleCloudPlatform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:53:29Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "click-to-deploy",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible-prometheus",
+          "description": "Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway by Ernestas Poskus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-03-22T10:23:37Z",
+            "owner": "ernestas-poskus",
+            "repo": "ansible-prometheus",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansitheus",
+          "description": "Ansible playbook to containerize, configure and deploy Prometheus ecosystem by ntk148v.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-10T05:39:36Z",
+            "owner": "ntk148v",
+            "repo": "ansitheus",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Deployment tools"
+    },
+    {
+      "description": "The lists below contain all the official Prometheus exporters that are maintained by the Prometheus GitHub organization. For a complete list of exporters including any non-official exporters see prometheus.io or exporterhub.io for a curated list of Prometheus exporters.",
+      "items": [],
+      "title": "Exporters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MySQL server exporter",
+          "description": "The MySQL server exporter periodically scrapes MySQL stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T18:27:23Z",
+            "owner": "prometheus",
+            "repo": "mysqld_exporter",
+            "stars": 2461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Consul exporter",
+          "description": "The exporter for Consul metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T07:20:39Z",
+            "owner": "prometheus",
+            "repo": "consul_exporter",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memcached exporter",
+          "description": "The Memcached exporter periodically scrapes Memcached stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T23:27:07Z",
+            "owner": "prometheus",
+            "repo": "memcached_exporter",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JMX exporter",
+          "description": "The exporter for JMX metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T04:05:25Z",
+            "owner": "prometheus",
+            "repo": "jmx_exporter",
+            "stars": 3320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SNMP exporter",
+          "description": "The exporter for SNMP metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:00:21Z",
+            "owner": "prometheus",
+            "repo": "snmp_exporter",
+            "stars": 2158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StatsD exporter",
+          "description": "The exporter for StatsD metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T13:29:17Z",
+            "owner": "prometheus",
+            "repo": "statsd_exporter",
+            "stars": 984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS CloudWatch exporter",
+          "description": "The exporter for Amazon AWS CloudWatch metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T21:23:07Z",
+            "owner": "prometheus",
+            "repo": "cloudwatch_exporter",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphite exporter",
+          "description": "The exporter for Graphite metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T06:02:59Z",
+            "owner": "prometheus",
+            "repo": "graphite_exporter",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "The exporter for InfluxDB metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T07:25:10Z",
+            "owner": "prometheus",
+            "repo": "influxdb_exporter",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collectd exporter",
+          "description": "The exporter for Collectd metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T07:22:02Z",
+            "owner": "prometheus",
+            "repo": "collectd_exporter",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "Other monitoring systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Prometheus Alerting Rules",
+          "description": "Awesome List of Prometheus alerting rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Astro",
+            "last_commit": "2026-08-12T04:24:32Z",
+            "owner": "samber",
+            "repo": "awesome-prometheus-alerts",
+            "stars": 8142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karma",
+          "description": "Alert dashboard for Prometheus Alertmanager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:15:35Z",
+            "owner": "prymitive",
+            "repo": "karma",
+            "stars": 2675
+          }
+        }
+      ],
+      "title": "Alertmanager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trickster",
+          "description": "HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T01:30:03Z",
+            "owner": "trickstercache",
+            "repo": "trickster",
+            "stars": 2086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promxy",
+          "description": "Deduplicates data from Prometheus HA pairs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T02:38:26Z",
+            "owner": "jacksontj",
+            "repo": "promxy",
+            "stars": 1320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-prometheus proxy",
+          "description": "Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2017-08-10T22:57:33Z",
+            "owner": "matt-deboer",
+            "repo": "mpp",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromQL Guard",
+          "description": "Provides a thin proxy on top of Prometheus, that allows PromQL queries to be inspected and re-written, so that a tenant can only see allowed data, even when using a shared Prometheus server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-08-04T07:04:08Z",
+            "owner": "kfdm",
+            "repo": "promql-guard",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exporter_proxy",
+          "description": "A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-28T10:42:54Z",
+            "owner": "mrichar1",
+            "repo": "exporter_proxy",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Proxies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "Cost-effective easy to operate remote storage for Prometheus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:01:02Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thanos",
+          "description": "Highly available Prometheus setup with long term storage capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:47:02Z",
+            "owner": "thanos-io",
+            "repo": "thanos",
+            "stars": 14175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "Horizontally scalable, highly available, multi-tenant, long-term Prometheus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T01:49:08Z",
+            "owner": "cortexproject",
+            "repo": "cortex",
+            "stars": 5848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3DB",
+          "description": "Scalable long-term remote storage for Prometheus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-17T15:06:04Z",
+            "owner": "m3db",
+            "repo": "m3",
+            "stars": 4892
+          }
+        }
+      ],
+      "title": "High Availability"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:24:19.049Z",
+    "original_repository": "warpnet/awesome-prometheus",
+    "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
+    "enhanced_repository": "enhansome/enhansome-prometheus",
+    "enhanced_repository_description": null,
+    "title": "Awesome Prometheus with stars"
+  }
+}
