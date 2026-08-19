@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T15:42:27Z",
+            "last_commit": "2026-08-18T14:39:30Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65701
+            "stars": 65744
           }
         },
         {
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T14:07:12Z",
+            "last_commit": "2026-08-18T12:43:29Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9976
+            "stars": 9975
           }
         },
         {
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-17T04:52:18Z",
+            "last_commit": "2026-08-19T02:30:57Z",
             "owner": "ntk148v",
             "repo": "ansitheus",
             "stars": 30
@@ -146,7 +146,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:27:23Z",
+            "last_commit": "2026-08-18T18:20:18Z",
             "owner": "prometheus",
             "repo": "mysqld_exporter",
             "stars": 2461
@@ -197,7 +197,7 @@
             "last_commit": "2026-08-17T12:56:32Z",
             "owner": "prometheus",
             "repo": "jmx_exporter",
-            "stars": 3320
+            "stars": 3319
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-10T19:00:21Z",
             "owner": "prometheus",
             "repo": "snmp_exporter",
-            "stars": 2160
+            "stars": 2162
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-08-12T04:24:32Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8154
+            "stars": 8155
           }
         },
         {
@@ -312,10 +312,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:41:27Z",
+            "last_commit": "2026-08-18T19:30:00Z",
             "owner": "prymitive",
             "repo": "karma",
-            "stars": 2676
+            "stars": 2678
           }
         }
       ],
@@ -408,10 +408,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T18:06:18Z",
+            "last_commit": "2026-08-18T16:30:17Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17553
+            "stars": 17561
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-17T07:21:43Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14179
+            "stars": 14180
           }
         },
         {
@@ -436,7 +436,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-18T00:13:56Z",
+            "last_commit": "2026-08-18T13:32:07Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5850
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:24:20.775Z",
+    "last_updated": "2026-08-19T03:25:56.201Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
     "enhanced_repository": "enhansome/enhansome-prometheus",
