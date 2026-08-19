@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-18T14:39:30Z",
+            "last_commit": "2026-08-19T12:40:52Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65744
+            "stars": 65752
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133764758,
             "language": "HTML",
             "last_commit": "2026-08-10T22:59:10Z",
             "owner": "prometheus",
@@ -35,7 +37,7 @@
       "title": "Official resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 262760847,
             "language": "Go",
             "last_commit": "2021-01-21T10:32:49Z",
             "owner": "yolossn",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35169245,
             "language": "Go",
             "last_commit": "2025-02-19T09:03:19Z",
             "owner": "juliusv",
@@ -69,7 +73,7 @@
       "title": "Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68964263,
             "language": "Go",
-            "last_commit": "2026-08-18T12:43:29Z",
+            "last_commit": "2026-08-19T12:43:18Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9975
+            "stars": 9974
           }
         },
         {
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128265535,
             "language": "Python",
             "last_commit": "2026-08-17T16:15:40Z",
             "owner": "GoogleCloudPlatform",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67443303,
             "language": "Ruby",
             "last_commit": "2021-03-22T10:23:37Z",
             "owner": "ernestas-poskus",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261352995,
             "language": "Jinja",
             "last_commit": "2026-08-19T02:30:57Z",
             "owner": "ntk148v",
@@ -132,163 +140,176 @@
     },
     {
       "description": "The lists below contain all the official Prometheus exporters that are maintained by the Prometheus GitHub organization. For a complete list of exporters including any non-official exporters see prometheus.io or exporterhub.io for a curated list of Prometheus exporters.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MySQL server exporter",
+              "description": "The MySQL server exporter periodically scrapes MySQL stats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32075541,
+                "language": "Go",
+                "last_commit": "2026-08-18T18:20:18Z",
+                "owner": "prometheus",
+                "repo": "mysqld_exporter",
+                "stars": 2461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Consul exporter",
+              "description": "The exporter for Consul metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32474543,
+                "language": "Go",
+                "last_commit": "2026-08-06T07:20:39Z",
+                "owner": "prometheus",
+                "repo": "consul_exporter",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memcached exporter",
+              "description": "The Memcached exporter periodically scrapes Memcached stats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57182606,
+                "language": "Go",
+                "last_commit": "2026-08-14T16:03:17Z",
+                "owner": "prometheus",
+                "repo": "memcached_exporter",
+                "stars": 203
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMX exporter",
+              "description": "The exporter for JMX metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17170044,
+                "language": "Java",
+                "last_commit": "2026-08-17T12:56:32Z",
+                "owner": "prometheus",
+                "repo": "jmx_exporter",
+                "stars": 3319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SNMP exporter",
+              "description": "The exporter for SNMP metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31185891,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:18:46Z",
+                "owner": "prometheus",
+                "repo": "snmp_exporter",
+                "stars": 2162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StatsD exporter",
+              "description": "The exporter for StatsD metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11129115,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:38:55Z",
+                "owner": "prometheus",
+                "repo": "statsd_exporter",
+                "stars": 983
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AWS CloudWatch exporter",
+              "description": "The exporter for Amazon AWS CloudWatch metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28717741,
+                "language": "Java",
+                "last_commit": "2026-08-13T21:23:07Z",
+                "owner": "prometheus",
+                "repo": "cloudwatch_exporter",
+                "stars": 975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Graphite exporter",
+              "description": "The exporter for Graphite metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34077510,
+                "language": "Go",
+                "last_commit": "2026-08-05T06:02:59Z",
+                "owner": "prometheus",
+                "repo": "graphite_exporter",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB",
+              "description": "The exporter for InfluxDB metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53703126,
+                "language": "Go",
+                "last_commit": "2026-08-06T07:25:10Z",
+                "owner": "prometheus",
+                "repo": "influxdb_exporter",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Collectd exporter",
+              "description": "The exporter for Collectd metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30269686,
+                "language": "Go",
+                "last_commit": "2026-08-06T07:22:02Z",
+                "owner": "prometheus",
+                "repo": "collectd_exporter",
+                "stars": 267
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other monitoring systems"
+        }
+      ],
       "title": "Exporters"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MySQL server exporter",
-          "description": "The MySQL server exporter periodically scrapes MySQL stats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T18:20:18Z",
-            "owner": "prometheus",
-            "repo": "mysqld_exporter",
-            "stars": 2461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Consul exporter",
-          "description": "The exporter for Consul metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T07:20:39Z",
-            "owner": "prometheus",
-            "repo": "consul_exporter",
-            "stars": 469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memcached exporter",
-          "description": "The Memcached exporter periodically scrapes Memcached stats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T16:03:17Z",
-            "owner": "prometheus",
-            "repo": "memcached_exporter",
-            "stars": 203
-          }
-        }
-      ],
-      "title": "Databases"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JMX exporter",
-          "description": "The exporter for JMX metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T12:56:32Z",
-            "owner": "prometheus",
-            "repo": "jmx_exporter",
-            "stars": 3319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SNMP exporter",
-          "description": "The exporter for SNMP metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-10T19:00:21Z",
-            "owner": "prometheus",
-            "repo": "snmp_exporter",
-            "stars": 2162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StatsD exporter",
-          "description": "The exporter for StatsD metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T13:29:17Z",
-            "owner": "prometheus",
-            "repo": "statsd_exporter",
-            "stars": 983
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AWS CloudWatch exporter",
-          "description": "The exporter for Amazon AWS CloudWatch metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-13T21:23:07Z",
-            "owner": "prometheus",
-            "repo": "cloudwatch_exporter",
-            "stars": 975
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphite exporter",
-          "description": "The exporter for Graphite metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-05T06:02:59Z",
-            "owner": "prometheus",
-            "repo": "graphite_exporter",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB",
-          "description": "The exporter for InfluxDB metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T07:25:10Z",
-            "owner": "prometheus",
-            "repo": "influxdb_exporter",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Collectd exporter",
-          "description": "The exporter for Collectd metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-06T07:22:02Z",
-            "owner": "prometheus",
-            "repo": "collectd_exporter",
-            "stars": 267
-          }
-        }
-      ],
-      "title": "Other monitoring systems"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -297,11 +318,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154027884,
             "language": "Astro",
             "last_commit": "2026-08-12T04:24:32Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8155
+            "stars": 8156
           }
         },
         {
@@ -311,18 +333,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148022767,
             "language": "TypeScript",
             "last_commit": "2026-08-18T19:30:00Z",
             "owner": "prymitive",
             "repo": "karma",
-            "stars": 2678
+            "stars": 2677
           }
         }
       ],
       "title": "Alertmanager"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -331,11 +354,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127344362,
             "language": "Go",
             "last_commit": "2026-08-14T21:58:09Z",
             "owner": "trickstercache",
             "repo": "trickster",
-            "stars": 2088
+            "stars": 2087
           }
         },
         {
@@ -345,6 +369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106239956,
             "language": "Go",
             "last_commit": "2026-07-25T02:38:26Z",
             "owner": "jacksontj",
@@ -359,6 +384,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 89319847,
             "language": "Go",
             "last_commit": "2017-08-10T22:57:33Z",
             "owner": "matt-deboer",
@@ -373,6 +399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195394094,
             "language": "Go",
             "last_commit": "2022-08-04T07:04:08Z",
             "owner": "kfdm",
@@ -387,6 +414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307338283,
             "language": "Python",
             "last_commit": "2021-09-28T10:42:54Z",
             "owner": "mrichar1",
@@ -398,7 +426,7 @@
       "title": "Proxies"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -407,11 +435,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-18T16:30:17Z",
+            "last_commit": "2026-08-19T12:39:34Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17561
+            "stars": 17566
           }
         },
         {
@@ -421,6 +450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109162639,
             "language": "Go",
             "last_commit": "2026-08-17T07:21:43Z",
             "owner": "thanos-io",
@@ -435,11 +465,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67793333,
             "language": "Go",
             "last_commit": "2026-08-18T13:32:07Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5850
+            "stars": 5851
           }
         },
         {
@@ -449,11 +480,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61153677,
             "language": "Go",
             "last_commit": "2026-08-17T15:26:52Z",
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4892
+            "stars": 4893
           }
         }
       ],
@@ -461,8 +493,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:56.201Z",
+    "last_updated": "2026-08-19T12:45:26.108Z",
     "original_repository": "warpnet/awesome-prometheus",
+    "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
     "enhanced_repository": "enhansome/enhansome-prometheus",
     "enhanced_repository_description": null,
