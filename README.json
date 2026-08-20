@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-19T12:40:52Z",
+            "last_commit": "2026-08-19T14:50:45Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65752
+            "stars": 65758
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-19T12:43:18Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9974
+            "stars": 9973
           }
         },
         {
@@ -356,10 +356,10 @@
             "archived": false,
             "id": 127344362,
             "language": "Go",
-            "last_commit": "2026-08-14T21:58:09Z",
+            "last_commit": "2026-08-19T22:13:44Z",
             "owner": "trickstercache",
             "repo": "trickster",
-            "stars": 2087
+            "stars": 2088
           }
         },
         {
@@ -437,10 +437,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-19T12:39:34Z",
+            "last_commit": "2026-08-19T20:22:57Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17566
+            "stars": 17571
           }
         },
         {
@@ -467,7 +467,7 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-18T13:32:07Z",
+            "last_commit": "2026-08-19T13:32:40Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5851
@@ -485,7 +485,7 @@
             "last_commit": "2026-08-17T15:26:52Z",
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4893
+            "stars": 4894
           }
         }
       ],
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:45:26.108Z",
+    "last_updated": "2026-08-20T03:25:59.198Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",

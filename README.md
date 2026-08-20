@@ -34,7 +34,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 <!--lint ignore double-link-->
 
-* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 65,752 | 🐛 877 | 🌐 Go | 📅 2026-08-19 - Prometheus' source code, issues discussion and collaboration.
+* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 65,758 | 🐛 886 | 🌐 Go | 📅 2026-08-19 - Prometheus' source code, issues discussion and collaboration.
 * [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site) ⭐ 128 | 🐛 13 | 🌐 HTML | 📅 2026-08-10.
 * [Website](https://prometheus.io/) - Official Prometheus project website.
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
@@ -119,7 +119,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Deployment tools
 
-* [Prometheus Operator](https://github.com/coreos/prometheus-operator) ⭐ 9,974 | 🐛 302 | 🌐 Go | 📅 2026-08-19 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
+* [Prometheus Operator](https://github.com/coreos/prometheus-operator) ⭐ 9,973 | 🐛 303 | 🌐 Go | 📅 2026-08-19 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 * [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) ⭐ 774 | 🐛 205 | 🌐 Python | 📅 2026-08-17 - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
 * [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) ⭐ 92 | 🐛 1 | 🌐 Ruby | 📅 2021-03-22 - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
 * [Ansitheus](https://github.com/ntk148v/ansitheus) ⭐ 30 | 🐛 4 | 🌐 Jinja | 📅 2026-08-19 - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
@@ -136,13 +136,13 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ### Databases
 
-* [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) ⭐ 2,461 | 🐛 185 | 🌐 Go | 📅 2026-08-18 - The MySQL server exporter periodically scrapes MySQL stats.
+* [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) ⭐ 2,461 | 🐛 184 | 🌐 Go | 📅 2026-08-18 - The MySQL server exporter periodically scrapes MySQL stats.
 * [Consul exporter](https://github.com/prometheus/consul_exporter) ⭐ 469 | 🐛 35 | 🌐 Go | 📅 2026-08-06 - The exporter for Consul metrics.
 * [Memcached exporter](https://github.com/prometheus/memcached_exporter) ⭐ 203 | 🐛 6 | 🌐 Go | 📅 2026-08-14 - The Memcached exporter periodically scrapes Memcached stats.
 
 ### Hardware related
 
-* [Node/system metrics exporter](https://github.com/prometheus/node_exporter) ⭐ 13,704 | 🐛 322 | 🌐 Go | 📅 2026-08-19 - The Node exporter periodically scrapes system stats.
+* [Node/system metrics exporter](https://github.com/prometheus/node_exporter) ⭐ 13,706 | 🐛 322 | 🌐 Go | 📅 2026-08-19 - The Node exporter periodically scrapes system stats.
 
 ### HTTP
 
@@ -160,7 +160,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ### Miscellaneous
 
-* [Blackbox](https://github.com/prometheus/blackbox_exporter) ⭐ 5,826 | 🐛 170 | 🌐 Go | 📅 2026-08-12 - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+* [Blackbox](https://github.com/prometheus/blackbox_exporter) ⭐ 5,827 | 🐛 170 | 🌐 Go | 📅 2026-08-12 - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 ## Alertmanager
 
@@ -170,7 +170,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## Proxies
 
-* [Trickster](https://github.com/tricksterproxy/trickster) ⭐ 2,087 | 🐛 33 | 🌐 Go | 📅 2026-08-14 - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
+* [Trickster](https://github.com/tricksterproxy/trickster) ⭐ 2,088 | 🐛 30 | 🌐 Go | 📅 2026-08-19 - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
 * [Promxy](https://github.com/jacksontj/promxy) ⭐ 1,321 | 🐛 18 | 🌐 Go | 📅 2026-07-25 - Deduplicates data from Prometheus HA pairs.
 * [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) ⚠️ Archived - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
 * [PromQL Guard](https://github.com/kfdm/promql-guard) ⭐ 26 | 🐛 1 | 🌐 Go | 📅 2022-08-04 - Provides a thin proxy on top of Prometheus, that allows PromQL queries to be inspected and re-written, so that a tenant can only see allowed data, even when using a shared Prometheus server.
@@ -178,10 +178,10 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## High Availability
 
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,566 | 🐛 766 | 🌐 Go | 📅 2026-08-19 - Cost-effective easy to operate remote storage for Prometheus.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,571 | 🐛 769 | 🌐 Go | 📅 2026-08-19 - Cost-effective easy to operate remote storage for Prometheus.
 * [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,180 | 🐛 878 | 🌐 Go | 📅 2026-08-17 - Highly available Prometheus setup with long term storage capabilities.
-* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,851 | 🐛 347 | 🌐 Go | 📅 2026-08-18 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
-* [M3DB](https://github.com/m3db/m3) ⭐ 4,893 | 🐛 220 | 🌐 Go | 📅 2026-08-17 - Scalable long-term remote storage for Prometheus.
+* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,851 | 🐛 359 | 🌐 Go | 📅 2026-08-19 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+* [M3DB](https://github.com/m3db/m3) ⭐ 4,894 | 🐛 220 | 🌐 Go | 📅 2026-08-17 - Scalable long-term remote storage for Prometheus.
 
 ## Uncategorized
 
@@ -190,4 +190,4 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
