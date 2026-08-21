@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-19T14:50:45Z",
+            "last_commit": "2026-08-20T15:33:17Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65758
+            "stars": 65765
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 133764758,
             "language": "HTML",
-            "last_commit": "2026-08-10T22:59:10Z",
+            "last_commit": "2026-08-20T05:34:11Z",
             "owner": "prometheus",
             "repo": "demo-site",
             "stars": 128
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 68964263,
             "language": "Go",
-            "last_commit": "2026-08-19T12:43:18Z",
+            "last_commit": "2026-08-20T13:51:38Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
             "stars": 9973
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-17T16:15:40Z",
             "owner": "GoogleCloudPlatform",
             "repo": "click-to-deploy",
-            "stars": 774
+            "stars": 773
           }
         },
         {
@@ -249,7 +249,7 @@
                 "archived": false,
                 "id": 28717741,
                 "language": "Java",
-                "last_commit": "2026-08-13T21:23:07Z",
+                "last_commit": "2026-08-20T21:22:32Z",
                 "owner": "prometheus",
                 "repo": "cloudwatch_exporter",
                 "stars": 975
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 154027884,
             "language": "Astro",
-            "last_commit": "2026-08-12T04:24:32Z",
+            "last_commit": "2026-08-21T02:22:47Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8156
+            "stars": 8162
           }
         },
         {
@@ -356,7 +356,7 @@
             "archived": false,
             "id": 127344362,
             "language": "Go",
-            "last_commit": "2026-08-19T22:13:44Z",
+            "last_commit": "2026-08-20T13:11:26Z",
             "owner": "trickstercache",
             "repo": "trickster",
             "stars": 2088
@@ -437,7 +437,7 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-19T20:22:57Z",
+            "last_commit": "2026-08-21T00:30:57Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
             "stars": 17571
@@ -467,7 +467,7 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-19T13:32:40Z",
+            "last_commit": "2026-08-20T20:09:50Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5851
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:25:59.198Z",
+    "last_updated": "2026-08-21T03:30:46.360Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
