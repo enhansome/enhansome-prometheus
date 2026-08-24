@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T00:55:12Z",
+            "last_commit": "2026-08-24T12:48:09Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65788
+            "stars": 65797
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 68964263,
             "language": "Go",
-            "last_commit": "2026-08-21T12:43:15Z",
+            "last_commit": "2026-08-24T12:44:45Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
             "stars": 9974
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 261352995,
             "language": "Jinja",
-            "last_commit": "2026-08-19T02:30:57Z",
+            "last_commit": "2026-08-24T04:55:00Z",
             "owner": "ntk148v",
             "repo": "ansitheus",
             "stars": 30
@@ -197,6 +197,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Node/system metrics exporter",
+              "description": "The Node exporter periodically scrapes system stats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9524057,
+                "language": "Go",
+                "last_commit": "2026-08-21T14:33:31Z",
+                "owner": "prometheus",
+                "repo": "node_exporter",
+                "stars": 13717
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardware related"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HAProxy exporter",
+              "description": "The HAProxy exporter periodically scrapes HAProxy stats.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7939398,
+                "language": "Go",
+                "last_commit": "2023-03-08T16:26:18Z",
+                "owner": "prometheus",
+                "repo": "haproxy_exporter",
+                "stars": 627
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HTTP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JMX exporter",
               "description": "The exporter for JMX metrics.",
               "children": [],
@@ -204,7 +248,7 @@
                 "archived": false,
                 "id": 17170044,
                 "language": "Java",
-                "last_commit": "2026-08-17T12:56:32Z",
+                "last_commit": "2026-08-24T13:35:37Z",
                 "owner": "prometheus",
                 "repo": "jmx_exporter",
                 "stars": 3320
@@ -304,6 +348,28 @@
           "description": null,
           "node_type": "group",
           "title": "Other monitoring systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blackbox",
+              "description": "The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41964498,
+                "language": "Go",
+                "last_commit": "2026-08-24T07:22:11Z",
+                "owner": "prometheus",
+                "repo": "blackbox_exporter",
+                "stars": 5839
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Exporters"
@@ -323,7 +389,7 @@
             "last_commit": "2026-08-23T21:27:33Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8165
+            "stars": 8167
           }
         },
         {
@@ -335,7 +401,7 @@
             "archived": false,
             "id": 148022767,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T20:45:13Z",
+            "last_commit": "2026-08-24T12:43:55Z",
             "owner": "prymitive",
             "repo": "karma",
             "stars": 2679
@@ -437,10 +503,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-24T01:43:29Z",
+            "last_commit": "2026-08-24T13:44:47Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17584
+            "stars": 17589
           }
         },
         {
@@ -452,10 +518,10 @@
             "archived": false,
             "id": 109162639,
             "language": "Go",
-            "last_commit": "2026-08-22T20:33:42Z",
+            "last_commit": "2026-08-24T12:18:33Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14181
+            "stars": 14183
           }
         },
         {
@@ -467,10 +533,10 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-22T17:50:56Z",
+            "last_commit": "2026-08-24T13:29:59Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5852
+            "stars": 5853
           }
         },
         {
@@ -493,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:32:46.156Z",
+    "last_updated": "2026-08-24T14:06:45.358Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
