@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-22T20:19:34Z",
+            "last_commit": "2026-08-24T00:55:12Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65774
+            "stars": 65788
           }
         },
         {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-19T07:38:55Z",
                 "owner": "prometheus",
                 "repo": "statsd_exporter",
-                "stars": 983
+                "stars": 984
               }
             },
             {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 154027884,
             "language": "Astro",
-            "last_commit": "2026-08-21T02:22:47Z",
+            "last_commit": "2026-08-23T21:27:33Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8164
+            "stars": 8165
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-22T20:45:13Z",
             "owner": "prymitive",
             "repo": "karma",
-            "stars": 2677
+            "stars": 2679
           }
         }
       ],
@@ -356,7 +356,7 @@
             "archived": false,
             "id": 127344362,
             "language": "Go",
-            "last_commit": "2026-08-21T21:18:29Z",
+            "last_commit": "2026-08-23T17:38:57Z",
             "owner": "trickstercache",
             "repo": "trickster",
             "stars": 2088
@@ -437,10 +437,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-22T08:31:08Z",
+            "last_commit": "2026-08-24T01:43:29Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17581
+            "stars": 17584
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2026-08-22T20:33:42Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14180
+            "stars": 14181
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-22T17:50:56Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5851
+            "stars": 5852
           }
         },
         {
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:30:27.782Z",
+    "last_updated": "2026-08-24T03:32:46.156Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
