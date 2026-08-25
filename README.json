@@ -12,10 +12,10 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-24T12:48:09Z",
+            "last_commit": "2026-08-24T18:11:49Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65797
+            "stars": 65803
           }
         },
         {
@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 57182606,
                 "language": "Go",
-                "last_commit": "2026-08-14T16:03:17Z",
+                "last_commit": "2026-08-24T22:50:22Z",
                 "owner": "prometheus",
                 "repo": "memcached_exporter",
                 "stars": 203
@@ -207,7 +207,7 @@
                 "last_commit": "2026-08-21T14:33:31Z",
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13717
+                "stars": 13719
               }
             }
           ],
@@ -248,7 +248,7 @@
                 "archived": false,
                 "id": 17170044,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:35:37Z",
+                "last_commit": "2026-08-24T16:00:50Z",
                 "owner": "prometheus",
                 "repo": "jmx_exporter",
                 "stars": 3320
@@ -360,10 +360,10 @@
                 "archived": false,
                 "id": 41964498,
                 "language": "Go",
-                "last_commit": "2026-08-24T07:22:11Z",
+                "last_commit": "2026-08-24T22:48:36Z",
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5839
+                "stars": 5841
               }
             }
           ],
@@ -503,10 +503,10 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-24T13:44:47Z",
+            "last_commit": "2026-08-25T00:53:18Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17589
+            "stars": 17590
           }
         },
         {
@@ -521,7 +521,7 @@
             "last_commit": "2026-08-24T12:18:33Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14183
+            "stars": 14184
           }
         },
         {
@@ -533,10 +533,10 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-24T13:29:59Z",
+            "last_commit": "2026-08-24T14:39:45Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5853
+            "stars": 5856
           }
         },
         {
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:45.358Z",
+    "last_updated": "2026-08-25T03:27:04.915Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
