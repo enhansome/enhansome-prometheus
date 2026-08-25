@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T18:11:49Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65803
+            "stars": 65804
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2026-08-23T21:27:33Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8167
+            "stars": 8168
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2026-08-25T00:53:18Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17590
+            "stars": 17591
           }
         },
         {
@@ -533,7 +533,7 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-24T14:39:45Z",
+            "last_commit": "2026-08-25T04:36:39Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5856
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:27:04.915Z",
+    "last_updated": "2026-08-25T05:59:25.069Z",
     "original_repository": "warpnet/awesome-prometheus",
     "original_repository_id": 78462716,
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",

@@ -34,7 +34,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 <!--lint ignore double-link-->
 
-* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 65,803 | 🐛 918 | 🌐 Go | 📅 2026-08-24 - Prometheus' source code, issues discussion and collaboration.
+* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 65,804 | 🐛 918 | 🌐 Go | 📅 2026-08-24 - Prometheus' source code, issues discussion and collaboration.
 * [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site) ⭐ 128 | 🐛 14 | 🌐 HTML | 📅 2026-08-20.
 * [Website](https://prometheus.io/) - Official Prometheus project website.
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
@@ -164,7 +164,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## Alertmanager
 
-* [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,167 | 🐛 46 | 🌐 Astro | 📅 2026-08-23 - Awesome List of Prometheus alerting rules.
+* [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,168 | 🐛 46 | 🌐 Astro | 📅 2026-08-23 - Awesome List of Prometheus alerting rules.
 * [Karma](https://github.com/prymitive/karma) ⭐ 2,679 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-24 - Alert dashboard for Prometheus Alertmanager.
 * [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 
@@ -178,9 +178,9 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## High Availability
 
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,590 | 🐛 779 | 🌐 Go | 📅 2026-08-25 - Cost-effective easy to operate remote storage for Prometheus.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,591 | 🐛 779 | 🌐 Go | 📅 2026-08-25 - Cost-effective easy to operate remote storage for Prometheus.
 * [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,184 | 🐛 879 | 🌐 Go | 📅 2026-08-24 - Highly available Prometheus setup with long term storage capabilities.
-* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,856 | 🐛 354 | 🌐 Go | 📅 2026-08-24 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,856 | 🐛 355 | 🌐 Go | 📅 2026-08-25 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
 * [M3DB](https://github.com/m3db/m3) ⭐ 4,894 | 🐛 220 | 🌐 Go | 📅 2026-08-17 - Scalable long-term remote storage for Prometheus.
 
 ## Uncategorized
