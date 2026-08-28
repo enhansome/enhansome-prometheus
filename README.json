@@ -12,11 +12,12 @@
             "archived": false,
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-27T12:32:57Z",
+            "last_commit": "2026-08-28T12:50:38Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65853
-          }
+            "stars": 65874
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "prometheus",
             "repo": "demo-site",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "Official resources"
@@ -52,7 +54,8 @@
             "owner": "yolossn",
             "repo": "Prometheus-Basics",
             "stars": 1560
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "juliusv",
             "repo": "prometheus_workshop",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "Tutorials"
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 68964263,
             "language": "Go",
-            "last_commit": "2026-08-27T12:42:38Z",
+            "last_commit": "2026-08-28T12:43:27Z",
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9975
-          }
+            "stars": 9976
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "click-to-deploy",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "ernestas-poskus",
             "repo": "ansible-prometheus",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "ntk148v",
             "repo": "ansitheus",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "Deployment tools"
@@ -155,8 +163,9 @@
                 "last_commit": "2026-08-18T18:20:18Z",
                 "owner": "prometheus",
                 "repo": "mysqld_exporter",
-                "stars": 2461
-              }
+                "stars": 2462
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -171,7 +180,8 @@
                 "owner": "prometheus",
                 "repo": "consul_exporter",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -186,7 +196,8 @@
                 "owner": "prometheus",
                 "repo": "memcached_exporter",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             }
           ],
           "description": null,
@@ -207,8 +218,9 @@
                 "last_commit": "2026-08-27T07:33:04Z",
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13723
-              }
+                "stars": 13733
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             }
           ],
           "description": null,
@@ -230,7 +242,8 @@
                 "owner": "prometheus",
                 "repo": "haproxy_exporter",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             }
           ],
           "description": null,
@@ -248,11 +261,12 @@
                 "archived": false,
                 "id": 17170044,
                 "language": "Java",
-                "last_commit": "2026-08-27T04:25:10Z",
+                "last_commit": "2026-08-27T22:29:23Z",
                 "owner": "prometheus",
                 "repo": "jmx_exporter",
-                "stars": 3321
-              }
+                "stars": 3322
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -267,7 +281,8 @@
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2165
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -282,7 +297,8 @@
                 "owner": "prometheus",
                 "repo": "statsd_exporter",
                 "stars": 986
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -293,11 +309,12 @@
                 "archived": false,
                 "id": 28717741,
                 "language": "Java",
-                "last_commit": "2026-08-20T21:22:32Z",
+                "last_commit": "2026-08-27T21:22:39Z",
                 "owner": "prometheus",
                 "repo": "cloudwatch_exporter",
                 "stars": 976
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -311,8 +328,9 @@
                 "last_commit": "2026-08-05T06:02:59Z",
                 "owner": "prometheus",
                 "repo": "graphite_exporter",
-                "stars": 401
-              }
+                "stars": 403
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -327,7 +345,8 @@
                 "owner": "prometheus",
                 "repo": "influxdb_exporter",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             },
             {
               "node_type": "item",
@@ -342,7 +361,8 @@
                 "owner": "prometheus",
                 "repo": "collectd_exporter",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             }
           ],
           "description": null,
@@ -363,8 +383,9 @@
                 "last_commit": "2026-08-27T07:46:31Z",
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5842
-              }
+                "stars": 5847
+              },
+              "first_seen": "2026-08-28T14:32:52.940Z"
             }
           ],
           "description": null,
@@ -390,7 +411,8 @@
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
             "stars": 8168
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -401,11 +423,12 @@
             "archived": false,
             "id": 148022767,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:36:41Z",
+            "last_commit": "2026-08-28T12:21:41Z",
             "owner": "prymitive",
             "repo": "karma",
             "stars": 2680
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "Alertmanager"
@@ -422,11 +445,12 @@
             "archived": false,
             "id": 127344362,
             "language": "Go",
-            "last_commit": "2026-08-27T00:53:23Z",
+            "last_commit": "2026-08-27T13:26:44Z",
             "owner": "trickstercache",
             "repo": "trickster",
             "stars": 2088
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -441,7 +465,8 @@
             "owner": "jacksontj",
             "repo": "promxy",
             "stars": 1320
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -456,7 +481,8 @@
             "owner": "matt-deboer",
             "repo": "mpp",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -471,7 +497,8 @@
             "owner": "kfdm",
             "repo": "promql-guard",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -486,7 +513,8 @@
             "owner": "mrichar1",
             "repo": "exporter_proxy",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "Proxies"
@@ -503,11 +531,12 @@
             "archived": false,
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-27T12:52:43Z",
+            "last_commit": "2026-08-28T13:46:43Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17599
-          }
+            "stars": 17608
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -521,8 +550,9 @@
             "last_commit": "2026-08-26T12:51:48Z",
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14188
-          }
+            "stars": 14190
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -533,11 +563,12 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-27T11:15:49Z",
+            "last_commit": "2026-08-28T13:28:51Z",
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5856
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         },
         {
           "node_type": "item",
@@ -552,14 +583,15 @@
             "owner": "m3db",
             "repo": "m3",
             "stars": 4895
-          }
+          },
+          "first_seen": "2026-08-28T14:32:52.940Z"
         }
       ],
       "title": "High Availability"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:02:07.873Z",
+    "last_updated": "2026-08-28T14:32:52.940Z",
     "original_repository_info": {
       "archived": false,
       "id": 78462716,
