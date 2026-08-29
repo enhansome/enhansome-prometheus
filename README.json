@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-28T12:50:38Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65874
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo site auto-deployed with Ansible.",
+            "homepage": null,
             "id": 133764758,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T05:34:11Z",
+            "open_issues": 14,
             "owner": "prometheus",
             "repo": "demo-site",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -48,12 +66,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prometheus-Basics is part of Prometheus Docs now,  checkout 👇",
+            "homepage": "https://prometheus.io/docs/tutorials/getting_started/",
             "id": 262760847,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-01-21T10:32:49Z",
+            "open_issues": 2,
             "owner": "yolossn",
             "repo": "Prometheus-Basics",
-            "stars": 1560
+            "stars": 1560,
+            "topics": [
+              "beginner",
+              "golang",
+              "introduction",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -64,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example client/server app used for a Prometheus workshop",
+            "homepage": null,
             "id": 35169245,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-02-19T09:03:19Z",
+            "open_issues": 0,
             "owner": "juliusv",
             "repo": "prometheus_workshop",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -86,12 +119,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+            "homepage": "https://prometheus-operator.dev",
             "id": 68964263,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:43:27Z",
+            "open_issues": 310,
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9976
+            "stars": 9976,
+            "topics": [
+              "hacktoberfest",
+              "kubernetes",
+              "monitoring",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -102,12 +145,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source for Google Click to Deploy solutions listed on Google Cloud Marketplace.",
+            "homepage": null,
             "id": 128265535,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T16:15:40Z",
+            "open_issues": 205,
             "owner": "GoogleCloudPlatform",
             "repo": "click-to-deploy",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "cloud",
+              "gcp",
+              "gke",
+              "google-cloud-marketplace",
+              "k8s"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -118,12 +172,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway",
+            "homepage": null,
             "id": 67443303,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-03-22T10:23:37Z",
+            "open_issues": 1,
             "owner": "ernestas-poskus",
             "repo": "ansible-prometheus",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "alertmanager",
+              "ansible",
+              "blackbox",
+              "blackbox-exporter",
+              "node-exporter",
+              "playbook",
+              "prometheus",
+              "prometheus-exporter",
+              "prometheus2",
+              "pushgateway",
+              "snmp-exporter",
+              "systemd"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -134,12 +206,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible playbook - Containerize, configure and deploy Prometheus ecosystem ",
+            "homepage": "https://ntk148v.github.io/blog/posts/ansitheus",
             "id": 261352995,
             "language": "Jinja",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T04:55:00Z",
+            "open_issues": 6,
             "owner": "ntk148v",
             "repo": "ansitheus",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "alertmanager",
+              "ansible",
+              "containerized",
+              "docker",
+              "hacktoberfest",
+              "mysqld-exporter",
+              "node-exporter",
+              "playbook",
+              "prometheus",
+              "prometheus-exporter"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -158,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exporter for MySQL server metrics",
+                "homepage": "http://prometheus.io/",
                 "id": 32075541,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T18:20:18Z",
+                "open_issues": 181,
                 "owner": "prometheus",
                 "repo": "mysqld_exporter",
-                "stars": 2462
+                "stars": 2462,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -174,12 +267,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exporter for Consul metrics",
+                "homepage": null,
                 "id": 32474543,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T07:20:39Z",
+                "open_issues": 35,
                 "owner": "prometheus",
                 "repo": "consul_exporter",
-                "stars": 470
+                "stars": 470,
+                "topics": [
+                  "consul",
+                  "consul-exporter",
+                  "go",
+                  "hacktoberfest",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -190,12 +296,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exports metrics from memcached servers for consumption by Prometheus.",
+                "homepage": null,
                 "id": 57182606,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T22:50:22Z",
+                "open_issues": 5,
                 "owner": "prometheus",
                 "repo": "memcached_exporter",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "memcached",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             }
@@ -213,12 +329,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exporter for machine metrics",
+                "homepage": "https://prometheus.io/",
                 "id": 9524057,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:33:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:44:41Z",
+                "open_issues": 310,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13733
+                "stars": 13739,
+                "topics": [
+                  "host-metrics",
+                  "machine-metrics",
+                  "metrics",
+                  "node-metrics",
+                  "procfs",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "system-information",
+                  "system-metrics"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             }
@@ -236,12 +367,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption",
+                "homepage": null,
                 "id": 7939398,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-08T16:26:18Z",
+                "open_issues": 0,
                 "owner": "prometheus",
                 "repo": "haproxy_exporter",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "go",
+                  "haproxy",
+                  "haproxy-exporter",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             }
@@ -259,12 +402,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A process for collecting metrics using JMX MBeans for Prometheus consumption",
+                "homepage": "https://prometheus.github.io/jmx_exporter/",
                 "id": 17170044,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:29:23Z",
+                "open_issues": 12,
                 "owner": "prometheus",
                 "repo": "jmx_exporter",
-                "stars": 3322
+                "stars": 3322,
+                "topics": [
+                  "java",
+                  "java-agent",
+                  "jmx",
+                  "jmx-exporter",
+                  "mbean",
+                  "monitoring",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -275,12 +432,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Exporter for Prometheus",
+                "homepage": null,
                 "id": 31185891,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T09:18:46Z",
+                "open_issues": 104,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2165
+                "stars": 2165,
+                "topics": [
+                  "metrics",
+                  "mib",
+                  "monitoring",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -291,12 +460,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StatsD to Prometheus metrics exporter",
+                "homepage": null,
                 "id": 11129115,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T07:38:55Z",
+                "open_issues": 27,
                 "owner": "prometheus",
                 "repo": "statsd_exporter",
-                "stars": 986
+                "stars": 986,
+                "topics": [
+                  "go",
+                  "hacktoberfest",
+                  "metrics",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "statsd",
+                  "statsd-metrics"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -307,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metrics exporter for Amazon AWS CloudWatch",
+                "homepage": null,
                 "id": 28717741,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:22:39Z",
+                "open_issues": 66,
                 "owner": "prometheus",
                 "repo": "cloudwatch_exporter",
-                "stars": 976
+                "stars": 977,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -323,12 +510,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server that accepts metrics via the Graphite protocol and exports them as Prometheus metrics",
+                "homepage": null,
                 "id": 34077510,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T06:02:59Z",
+                "open_issues": 15,
                 "owner": "prometheus",
                 "repo": "graphite_exporter",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "graphite",
+                  "hacktoberfest",
+                  "metrics",
+                  "monitoring",
+                  "observability",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -339,12 +538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A server that accepts InfluxDB metrics via the HTTP API and exports them via HTTP for Prometheus consumption",
+                "homepage": null,
                 "id": 53703126,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T15:05:50Z",
+                "open_issues": 9,
                 "owner": "prometheus",
                 "repo": "influxdb_exporter",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "hacktoberfest",
+                  "influxdb",
+                  "metrics",
+                  "observability",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             },
@@ -355,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption",
+                "homepage": null,
                 "id": 30269686,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T07:22:02Z",
+                "open_issues": 26,
                 "owner": "prometheus",
                 "repo": "collectd_exporter",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             }
@@ -378,12 +593,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blackbox prober exporter",
+                "homepage": "https://prometheus.io",
                 "id": 41964498,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:46:31Z",
+                "open_issues": 168,
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5847
+                "stars": 5849,
+                "topics": [
+                  "blackbox-exporter",
+                  "icmp",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
             }
@@ -405,12 +630,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚨 Collection of Prometheus alerting rules",
+            "homepage": "https://samber.github.io/awesome-prometheus-alerts/",
             "id": 154027884,
             "language": "Astro",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T21:27:33Z",
+            "open_issues": 47,
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8168
+            "stars": 8169,
+            "topics": [
+              "alert",
+              "alerting",
+              "alerting-rules",
+              "alertmanager",
+              "awesome",
+              "collection",
+              "exporter",
+              "grafana",
+              "monitoring",
+              "prometheus",
+              "prometheus-alerting-rules",
+              "promql",
+              "query",
+              "rule",
+              "supervision"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -421,12 +667,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alert dashboard for Prometheus Alertmanager",
+            "homepage": "https://demo.karma-dashboard.io/",
             "id": 148022767,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:21:41Z",
+            "open_issues": 39,
             "owner": "prymitive",
             "repo": "karma",
-            "stars": 2680
+            "stars": 2680,
+            "topics": [
+              "alerting",
+              "alertmanager",
+              "dashboard",
+              "monitoring",
+              "prometheus",
+              "prometheus-alertmanager",
+              "prometheus-utility"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -443,12 +702,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source HTTP Reverse Proxy Cache and Time Series DB Query Accelerator",
+            "homepage": "https://trickstercache.org",
             "id": 127344362,
             "language": "Go",
-            "last_commit": "2026-08-27T13:26:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:52:32Z",
+            "open_issues": 13,
             "owner": "trickstercache",
             "repo": "trickster",
-            "stars": 2088
+            "stars": 2088,
+            "topics": [
+              "accelerator",
+              "caching",
+              "clickhouse",
+              "dashboards",
+              "druid",
+              "graphite",
+              "http-proxy",
+              "influxdb",
+              "load-balancer",
+              "mysql",
+              "performance",
+              "prometheus",
+              "reverse-proxy",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -459,12 +738,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An aggregating proxy to enable HA prometheus",
+            "homepage": null,
             "id": 106239956,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-25T02:38:26Z",
+            "open_issues": 18,
             "owner": "jacksontj",
             "repo": "promxy",
-            "stars": 1320
+            "stars": 1320,
+            "topics": [
+              "golang",
+              "graphing",
+              "high-availability",
+              "http",
+              "monitoring",
+              "multi-prometheus-proxy",
+              "prometheus",
+              "prometheus-infrastructure",
+              "prometheus-proxy",
+              "promql",
+              "proxy",
+              "redundancy",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -475,12 +773,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multi-Prometheus Proxy",
+            "homepage": null,
             "id": 89319847,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-08-10T22:57:33Z",
+            "open_issues": 1,
             "owner": "matt-deboer",
             "repo": "mpp",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "kubernetes",
+              "marathon",
+              "mpp",
+              "multi-prometheus-proxy",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -491,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 195394094,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-08-04T07:04:08Z",
+            "open_issues": 1,
             "owner": "kfdm",
             "repo": "promql-guard",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -507,12 +821,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small pure-python Reverse HTTP proxy for Prometheus exporters with TLS support.",
+            "homepage": null,
             "id": 307338283,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-09-28T10:42:54Z",
+            "open_issues": 1,
             "owner": "mrichar1",
             "repo": "exporter_proxy",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "exporters",
+              "node-exporter",
+              "prometheus",
+              "proxy",
+              "reverse-proxy",
+              "ssl",
+              "tls",
+              "tls-proxy"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -529,12 +857,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+            "homepage": "https://victoriametrics.com/",
             "id": 150954997,
             "language": "Go",
-            "last_commit": "2026-08-28T13:46:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:24:26Z",
+            "open_issues": 786,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17608
+            "stars": 17609,
+            "topics": [
+              "database",
+              "grafana",
+              "graphite",
+              "influxdb",
+              "kubernetes",
+              "monitoring",
+              "observability",
+              "opentelemetry",
+              "opentsdb",
+              "prometheus",
+              "promql",
+              "thanos",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -545,12 +892,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+            "homepage": "https://thanos.io",
             "id": 109162639,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:51:48Z",
+            "open_issues": 884,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14190
+            "stars": 14190,
+            "topics": [
+              "cncf",
+              "go",
+              "google-cloud-storage",
+              "hacktoberfest",
+              "high-availability",
+              "metrics",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "prometheus-ha-pairs",
+              "prometheus-setup",
+              "s3",
+              "storage",
+              "thanos"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -561,12 +928,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+            "homepage": "https://cortexmetrics.io/",
             "id": 67793333,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:28:51Z",
+            "open_issues": 354,
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5856
+            "stars": 5857,
+            "topics": [
+              "cncf",
+              "hacktoberfest",
+              "kubernetes",
+              "monitoring",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         },
@@ -577,12 +955,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",
+            "homepage": "https://m3db.io/",
             "id": 61153677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T15:26:52Z",
+            "open_issues": 225,
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4895
+            "stars": 4895,
+            "topics": [
+              "aggregator",
+              "graphite",
+              "kubernetes",
+              "m3",
+              "metrics",
+              "prometheus",
+              "query-engine",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T14:32:52.940Z"
         }
@@ -591,15 +983,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:32:52.940Z",
+    "last_updated": "2026-08-29T04:26:40.148Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Prometheus resources, projects and tools.",
+      "homepage": null,
       "id": 78462716,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-07-30T18:33:53Z",
+      "open_issues": 8,
       "owner": "warpnet",
       "repo": "awesome-prometheus",
-      "stars": 1859
+      "stars": 1859,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "prometheus"
+      ]
     },
     "original_repository_sha": "d21f6de346a8f01ee3ef8b23282139dcc805eb62",
     "enhanced_repository": "enhansome/enhansome-prometheus",
