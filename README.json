@@ -15,8 +15,8 @@
             "id": 6838921,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T16:51:00Z",
-            "open_issues": 879,
+            "last_commit": "2026-08-29T08:13:46Z",
+            "open_issues": 878,
             "owner": "prometheus",
             "repo": "prometheus",
             "stars": 65878,
@@ -862,11 +862,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:24:26Z",
-            "open_issues": 786,
+            "last_commit": "2026-08-29T08:34:00Z",
+            "open_issues": 782,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17609,
+            "stars": 17612,
             "topics": [
               "database",
               "grafana",
@@ -983,7 +983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:40.148Z",
+    "last_updated": "2026-08-29T09:18:52.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Prometheus resources, projects and tools.",
