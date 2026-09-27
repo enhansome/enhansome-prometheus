@@ -15,11 +15,11 @@
             "id": 6838921,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T14:26:36Z",
-            "open_issues": 918,
+            "last_commit": "2026-09-26T14:51:01Z",
+            "open_issues": 920,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 66236,
+            "stars": 66262,
             "topics": [
               "alerting",
               "graphing",
@@ -128,7 +128,7 @@
             "open_issues": 292,
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
-            "stars": 9980,
+            "stars": 9981,
             "topics": [
               "hacktoberfest",
               "kubernetes",
@@ -255,7 +255,7 @@
                 "open_issues": 162,
                 "owner": "prometheus",
                 "repo": "mysqld_exporter",
-                "stars": 2463,
+                "stars": 2462,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:32:52.940Z"
@@ -338,7 +338,7 @@
                 "open_issues": 319,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13805,
+                "stars": 13807,
                 "topics": [
                   "host-metrics",
                   "machine-metrics",
@@ -601,7 +601,7 @@
                 "open_issues": 157,
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5885,
+                "stars": 5887,
                 "topics": [
                   "blackbox-exporter",
                   "icmp",
@@ -706,7 +706,7 @@
             "id": 127344362,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T18:36:48Z",
+            "last_commit": "2026-09-27T01:52:15Z",
             "open_issues": 11,
             "owner": "trickstercache",
             "repo": "trickster",
@@ -866,10 +866,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T19:56:06Z",
-            "open_issues": 791,
+            "open_issues": 792,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17769,
+            "stars": 17773,
             "topics": [
               "database",
               "grafana",
@@ -903,10 +903,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T07:54:55Z",
-            "open_issues": 902,
+            "open_issues": 904,
             "owner": "thanos-io",
             "repo": "thanos",
-            "stars": 14220,
+            "stars": 14221,
             "topics": [
               "cncf",
               "go",
@@ -938,8 +938,8 @@
             "id": 67793333,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T23:07:50Z",
-            "open_issues": 342,
+            "last_commit": "2026-09-26T19:53:48Z",
+            "open_issues": 341,
             "owner": "cortexproject",
             "repo": "cortex",
             "stars": 5867,
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:57:36.042Z",
+    "last_updated": "2026-09-27T08:30:11.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Prometheus resources, projects and tools.",
