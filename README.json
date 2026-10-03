@@ -19,7 +19,7 @@
             "open_issues": 937,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 66344,
+            "stars": 66346,
             "topics": [
               "alerting",
               "graphing",
@@ -125,7 +125,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T13:18:38Z",
-            "open_issues": 294,
+            "open_issues": 295,
             "owner": "prometheus-operator",
             "repo": "prometheus-operator",
             "stars": 9983,
@@ -338,7 +338,7 @@
                 "open_issues": 328,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13819,
+                "stars": 13820,
                 "topics": [
                   "host-metrics",
                   "machine-metrics",
@@ -869,7 +869,7 @@
             "open_issues": 785,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17810,
+            "stars": 17813,
             "topics": [
               "database",
               "grafana",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:02:14.043Z",
+    "last_updated": "2026-10-03T08:30:02.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Prometheus resources, projects and tools.",
