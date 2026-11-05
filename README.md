@@ -34,7 +34,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 <!--lint ignore double-link-->
 
-* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 66,933 | 🐛 1,048 | 🌐 Go | 📅 2026-11-04 - Prometheus' source code, issues discussion and collaboration.
+* [GitHub repository](https://github.com/prometheus/prometheus) ⭐ 66,960 | 🐛 1,058 | 🌐 Go | 📅 2026-11-05 - Prometheus' source code, issues discussion and collaboration.
 * [Official Prometheus demo](https://demo.do.prometheus.io) - Official Prometheus demo site managed by Cloud Alchemy Ansible roles updating daily using configuration from [Prometheus repository](https://github.com/prometheus/demo-site) ⭐ 128 | 🐛 20 | 🌐 HTML | 📅 2026-11-02.
 * [Website](https://prometheus.io/) - Official Prometheus project website.
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
@@ -119,8 +119,8 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Deployment tools
 
-* [Prometheus Operator](https://github.com/coreos/prometheus-operator) ⭐ 9,993 | 🐛 297 | 🌐 Go | 📅 2026-11-04 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
-* [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) ⭐ 774 | 🐛 206 | 🌐 Python | 📅 2026-10-30 - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
+* [Prometheus Operator](https://github.com/coreos/prometheus-operator) ⭐ 9,993 | 🐛 296 | 🌐 Go | 📅 2026-11-05 - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
+* [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) ⭐ 774 | 🐛 207 | 🌐 Python | 📅 2026-11-05 - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
 * [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) ⭐ 92 | 🐛 1 | 🌐 Ruby | 📅 2021-03-22 - Ansible playbook for installing Prometheus monitoring system, exporters such as: node, snmp, blackbox, thus alert manager and push gateway *by Ernestas Poskus*.
 * [Ansitheus](https://github.com/ntk148v/ansitheus) ⭐ 30 | 🐛 1 | 🌐 Jinja | 📅 2026-11-03 - Ansible playbook to containerize, configure and deploy Prometheus ecosystem *by ntk148v*.
 * [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - Ansible roles to manage Prometheus, Alertmanager, Grafana, and common Prometheus exporters.
@@ -138,11 +138,11 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 * [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) ⭐ 2,469 | 🐛 159 | 🌐 Go | 📅 2026-11-03 - The MySQL server exporter periodically scrapes MySQL stats.
 * [Consul exporter](https://github.com/prometheus/consul_exporter) ⭐ 470 | 🐛 42 | 🌐 Go | 📅 2026-10-28 - The exporter for Consul metrics.
-* [Memcached exporter](https://github.com/prometheus/memcached_exporter) ⭐ 207 | 🐛 10 | 🌐 Go | 📅 2026-11-03 - The Memcached exporter periodically scrapes Memcached stats.
+* [Memcached exporter](https://github.com/prometheus/memcached_exporter) ⭐ 207 | 🐛 9 | 🌐 Go | 📅 2026-11-05 - The Memcached exporter periodically scrapes Memcached stats.
 
 ### Hardware related
 
-* [Node/system metrics exporter](https://github.com/prometheus/node_exporter) ⭐ 13,894 | 🐛 327 | 🌐 Go | 📅 2026-11-02 - The Node exporter periodically scrapes system stats.
+* [Node/system metrics exporter](https://github.com/prometheus/node_exporter) ⭐ 13,897 | 🐛 325 | 🌐 Go | 📅 2026-11-02 - The Node exporter periodically scrapes system stats.
 
 ### HTTP
 
@@ -153,18 +153,18 @@ The lists below contain all the official Prometheus exporters that are maintaine
 * [JMX exporter](https://github.com/prometheus/jmx_exporter) ⭐ 3,334 | 🐛 11 | 🌐 Java | 📅 2026-11-03 - The exporter for JMX metrics.
 * [SNMP exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,193 | 🐛 105 | 🌐 Go | 📅 2026-10-29 - The exporter for SNMP metrics.
 * [StatsD exporter](https://github.com/prometheus/statsd_exporter) ⭐ 990 | 🐛 27 | 🌐 Go | 📅 2026-10-28 - The exporter for StatsD metrics.
-* [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter) ⭐ 979 | 🐛 71 | 🌐 Java | 📅 2026-11-01 - The exporter for Amazon AWS CloudWatch metrics.
+* [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter) ⭐ 980 | 🐛 71 | 🌐 Java | 📅 2026-11-01 - The exporter for Amazon AWS CloudWatch metrics.
 * [Graphite exporter](https://github.com/prometheus/graphite_exporter) ⭐ 406 | 🐛 23 | 🌐 Go | 📅 2026-10-28 - The exporter for Graphite metrics.
 * [InfluxDB](https://github.com/prometheus/influxdb_exporter) ⭐ 291 | 🐛 5 | 🌐 Go | 📅 2026-11-02 - The exporter for InfluxDB metrics.
 * [Collectd exporter](https://github.com/prometheus/collectd_exporter) ⭐ 269 | 🐛 25 | 🌐 Go | 📅 2026-10-28 - The exporter for Collectd metrics.
 
 ### Miscellaneous
 
-* [Blackbox](https://github.com/prometheus/blackbox_exporter) ⭐ 5,930 | 🐛 123 | 🌐 Go | 📅 2026-11-01 - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+* [Blackbox](https://github.com/prometheus/blackbox_exporter) ⭐ 5,931 | 🐛 123 | 🌐 Go | 📅 2026-11-01 - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
 ## Alertmanager
 
-* [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,240 | 🐛 45 | 🌐 Astro | 📅 2026-11-02 - Awesome List of Prometheus alerting rules.
+* [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,242 | 🐛 45 | 🌐 Astro | 📅 2026-11-02 - Awesome List of Prometheus alerting rules.
 * [Karma](https://github.com/prymitive/karma) ⭐ 2,691 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-03 - Alert dashboard for Prometheus Alertmanager.
 * [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 
@@ -178,10 +178,10 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## High Availability
 
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 18,004 | 🐛 790 | 🌐 Go | 📅 2026-11-04 - Cost-effective easy to operate remote storage for Prometheus.
-* [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,265 | 🐛 933 | 🌐 Go | 📅 2026-10-30 - Highly available Prometheus setup with long term storage capabilities.
-* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,875 | 🐛 270 | 🌐 Go | 📅 2026-11-04 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
-* [M3DB](https://github.com/m3db/m3) ⭐ 4,909 | 🐛 171 | 🌐 Go | 📅 2026-10-20 - Scalable long-term remote storage for Prometheus.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 18,018 | 🐛 788 | 🌐 Go | 📅 2026-11-05 - Cost-effective easy to operate remote storage for Prometheus.
+* [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,267 | 🐛 934 | 🌐 Go | 📅 2026-11-04 - Highly available Prometheus setup with long term storage capabilities.
+* [Cortex](https://github.com/cortexproject/cortex) ⭐ 5,876 | 🐛 271 | 🌐 Go | 📅 2026-11-05 - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+* [M3DB](https://github.com/m3db/m3) ⭐ 4,909 | 🐛 172 | 🌐 Go | 📅 2026-11-04 - Scalable long-term remote storage for Prometheus.
 
 ## Uncategorized
 
@@ -190,4 +190,4 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
